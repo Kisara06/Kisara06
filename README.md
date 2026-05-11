@@ -10,7 +10,6 @@ Java와 Linux를 중심으로 공부하고 있는 대학생입니다.
 - Linux / Ubuntu
 - Git & GitHub
 - 자료구조 및 알고리즘 기초
-- 객체지향 프로그래밍(OOP)
 
 ---
 
